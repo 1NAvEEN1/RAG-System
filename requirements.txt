@@ -1,0 +1,9 @@
+langchain
+chroma
+openai
+pdfplumber
+shutilwhich
+chromadb
+pypdf
+fastapi
+uvicorn
